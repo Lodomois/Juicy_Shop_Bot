@@ -1,0 +1,118 @@
+{
+    "5685375236": {
+        "balance": 1004,
+        "purchases": [
+            "a9f22164",
+            "bc38218b",
+            {
+                "product_id": "6cf3bb40",
+                "name": "ARA",
+                "price": 111,
+                "content": "HFODF"
+            },
+            {
+                "product_id": "61c0beaf",
+                "name": "а",
+                "price": 11,
+                "content": "1"
+            },
+            {
+                "product_id": "61c0beaf",
+                "name": "а",
+                "price": 11,
+                "content": "1"
+            },
+            {
+                "product_id": "61c0beaf",
+                "name": "а",
+                "price": 11,
+                "content": "1"
+            },
+            {
+                "product_id": "b21f1559",
+                "name": "ТЕСТ",
+                "price": 1,
+                "content": "ТЕСТ"
+            },
+            {
+                "product_id": "b21f1559",
+                "name": "ТЕСТ",
+                "price": 1,
+                "content": "ТЕСТ1"
+            },
+            {
+                "product_id": "b21f1559",
+                "name": "ТЕСТ",
+                "price": 1,
+                "content": "ТЕСТ3"
+            },
+            {
+                "product_id": "c7405893",
+                "name": "Сhat GPT Plus",
+                "price": 500,
+                "content": "+79021684504:JIJASJ=90-I0hhds"
+            },
+            {
+                "product_id": "c7405893",
+                "name": "Сhat GPT Plus",
+                "price": 500,
+                "content": "2 товар"
+            },
+            {
+                "product_id": "c7405893",
+                "name": "Сhat GPT Plus",
+                "price": 500,
+                "content": "AAJAJAJAJAJAJAJAJA"
+            },
+            {
+                "product_id": "518cbf93",
+                "name": "Гемини",
+                "price": 50,
+                "content": "https://serviceactivation.google.com/subscription/new/AQCpiIHwfXdAStKvgMTS9wRBTkD16vlV1y0GEK53eJUMtad7JPs_VD927T9gFPmql2-lV0DVhL7riy6lCh3gNfDkBX6-_7N8EPr_vQ-z1p4IL4X9wl25pdPPOt7FzplFeeMqCKZfhcJyp28eGJYSzXdSp9KsbM5jdmINKkmsFJpLPhZPeNpcLTFr4rTqvthQi3yhtvag_MzrxUFOp9taN6cZkH0gSzEAwFbTb-cfxoIuL3RouBJ2Jc_VbO35E5xpm8uhitSg4uftxES9gQ=="
+            },
+            {
+                "product_id": "518cbf93",
+                "name": "Гемини",
+                "price": 50,
+                "content": "https://serviceactivation.google.com/subscription/new/AQCpiIHwfXdAStKvgMTS9wRBTkD16vlV1y0GEK53eJUMtad7JPs_VD927T9gFPmql2-lV0DVhL7riy6lCh3gNfDkBX6-_7N8EPr_vQ-z1p4IL4X9wl25pdPPOt7FzplFeeMqCKZfhcJyp28eGJYSzXdSp9KsbM5jdmINKkmsFJpLPhZPeNpcLTFr4rTqvthQi3yhtvag_MzrxUFOp9taN6cZkH0gSzEAwFbTb-cfxoIuL3RouBJ2Jc_VbO35E5xpm8uhitSg4uftxES9gQ=3"
+            },
+            {
+                "product_id": "518cbf93",
+                "name": "Гемини",
+                "price": 50,
+                "content": "https://serviceactivation.google.com/subscription/new/AQCpiIHwfXdAStKvgMTS9wRBTkD16vlV1y0GEK53eJUMtad7JPs_VD927T9gFPmql2-lV0DVhL7riy6lCh3gNfDkBX6-_7N8EPr_vQ-z1p4IL4X9wl25pdPPOt7FzplFeeMqCKZfhcJyp28eGJYSzXdSp9KsbM5jdmINKkmsFJpLPhZPeNpcLTFr4rTqvthQi3yhtvag_MzrxUFOp9taN6cZkH0gSzEAwFbTb-cfxoIuL3RouBJ2Jc_VbO35E5xpm8uhitSg4uftxES9gQ=1"
+            }
+        ],
+        "language": "ru"
+    },
+    "5306749403": {
+        "balance": 0,
+        "purchases": [
+            "bc38218b",
+            {
+                "product_id": "61c0beaf",
+                "name": "а",
+                "price": 11,
+                "content": "1"
+            }
+        ],
+        "language": "ru"
+    },
+    "1": {
+        "balance": 0,
+        "purchases": [],
+        "language": "ru"
+    },
+    "1996161345": {
+        "balance": 9,
+        "purchases": [
+            {
+                "product_id": "b21f1559",
+                "name": "ТЕСТ",
+                "price": 1,
+                "content": "ТЕСТ2"
+            }
+        ],
+        "language": "ru"
+    }
+}
