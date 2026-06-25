@@ -1,0 +1,76 @@
+{
+    "5685375236": {
+        "balance": 155,
+        "purchases": [
+            "a9f22164",
+            "bc38218b",
+            {
+                "product_id": "6cf3bb40",
+                "name": "ARA",
+                "price": 111,
+                "content": "HFODF"
+            },
+            {
+                "product_id": "61c0beaf",
+                "name": "а",
+                "price": 11,
+                "content": "1"
+            },
+            {
+                "product_id": "61c0beaf",
+                "name": "а",
+                "price": 11,
+                "content": "1"
+            },
+            {
+                "product_id": "61c0beaf",
+                "name": "а",
+                "price": 11,
+                "content": "1"
+            },
+            {
+                "product_id": "b21f1559",
+                "name": "ТЕСТ",
+                "price": 1,
+                "content": "ТЕСТ"
+            },
+            {
+                "product_id": "b21f1559",
+                "name": "ТЕСТ",
+                "price": 1,
+                "content": "ТЕСТ1"
+            }
+        ],
+        "language": "ru"
+    },
+    "5306749403": {
+        "balance": 0,
+        "purchases": [
+            "bc38218b",
+            {
+                "product_id": "61c0beaf",
+                "name": "а",
+                "price": 11,
+                "content": "1"
+            }
+        ],
+        "language": "ru"
+    },
+    "1": {
+        "balance": 0,
+        "purchases": [],
+        "language": "ru"
+    },
+    "1996161345": {
+        "balance": 9,
+        "purchases": [
+            {
+                "product_id": "b21f1559",
+                "name": "ТЕСТ",
+                "price": 1,
+                "content": "ТЕСТ2"
+            }
+        ],
+        "language": "ru"
+    }
+}

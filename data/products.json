@@ -1,0 +1,62 @@
+[
+    {
+        "id": "a9f22164",
+        "category": "Brawl Stars",
+        "name": "100 гемов",
+        "price": 199,
+        "description": "Пополнение гемов",
+        "content": "Напиши админу свой ID",
+        "active": false
+    },
+    {
+        "id": "bc38218b",
+        "category": "ИИ подписки",
+        "name": "ГЕМЕНИ 18 МЕСЯЦЕВ",
+        "price": 1111,
+        "description": "Легендарный товар",
+        "content": "А фиг тебе",
+        "active": false
+    },
+    {
+        "id": "6cf3bb40",
+        "category": "[P",
+        "name": "ARA",
+        "price": 111,
+        "description": "123",
+        "content": "HFODF",
+        "delivery_type": "static",
+        "active": false
+    },
+    {
+        "id": "61c0beaf",
+        "category": "а",
+        "name": "а",
+        "price": 11,
+        "description": "123",
+        "content": "1",
+        "delivery_type": "static",
+        "active": false
+    },
+    {
+        "id": "b577733e",
+        "category": "2",
+        "name": "2",
+        "price": 222222,
+        "description": "2",
+        "content": "2",
+        "delivery_type": "static",
+        "active": false
+    },
+    {
+        "id": "b21f1559",
+        "category": "ТЕСТ",
+        "name": "ТЕСТ",
+        "price": 1,
+        "description": "ТЕСТ",
+        "content": [
+            "ТЕСТ3"
+        ],
+        "delivery_type": "dynamic",
+        "active": true
+    }
+]
